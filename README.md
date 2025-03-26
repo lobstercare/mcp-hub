@@ -1,6 +1,8 @@
 # Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
+[![Français](https://img.shields.io/badge/Français-Cliquez-blue)](README.fr.md)
+
 [![GitHub stars](https://img.shields.io/github/stars/lobstercare/mcp-hub?style=social)](https://github.com/lobstercare/mcp-hub)
 
 A curated list of awesome Model Context Protocol (MCP) servers.
