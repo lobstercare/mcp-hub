@@ -34,7 +34,6 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ## Community
 
-* [MCP Discord](https://discord.gg/mcp)
 * [MCP GitHub](https://github.com/modelcontextprotocol/mcp)
 
 ## MCP Server Legend
