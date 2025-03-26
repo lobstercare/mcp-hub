@@ -34,78 +34,135 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 
 ## Implémentations de serveurs
 
-### Légende
+* 📂 - [Systèmes de fichiers](#systèmes-de-fichiers)
+* 🗄️ - [Bases de données](#bases-de-données)
+* 🌐 - [Web et recherche](#web-et-recherche)
+* 🔄 - [Contrôle de version](#contrôle-de-version)
+* 💬 - [Communication](#communication)
+* 🖥️ - [Outils de développement](#outils-de-développement)
+* 📊 - [Surveillance](#surveillance)
+* 🧠 - [Connaissances et mémoire](#connaissances-et-mémoire)
+* 🗺️ - [Services de localisation](#services-de-localisation)
+* 🎮 - [Jeux](#jeux)
+* 💰 - [Finance](#finance)
+* 🛠️ - [Utilitaires](#utilitaires)
 
-#### Statut d'implémentation
-| Symbole | Signification |
-|---------|---------------|
-| ⭐ | Implémentation officielle |
-| ✅ | Prêt pour la production |
-| 🧪 | Expérimental |
-| 🚧 | En développement |
+### 📂 <a name="systèmes-de-fichiers"></a>Systèmes de fichiers
 
-#### Langages de programmation
-| Symbole | Langage |
-|---------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" /> | Python |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" /> | TypeScript/JavaScript |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="20" height="20" /> | Go |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="20" height="20" /> | Rust |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20" /> | C# |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" /> | Java |
+- [modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/server-filesystem) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Accès direct au système de fichiers local avec permissions configurables
+- [modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/server-google-drive) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Google Drive pour lister, lire et rechercher des fichiers
+- [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - Implémentation Golang pour l'accès au système de fichiers local
+- [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Box pour lister, lire et rechercher des fichiers
+- [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="16" height="16"/> - Recherche rapide de fichiers Windows utilisant Everything SDK
+- [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Partage du contexte de code avec les LLM via MCP ou le presse-papiers
+- [quarkiverse/quarkus-mcp-servers/filesystem](https://github.com/quarkiverse/quarkus-mcp-servers/filesystem) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16"/> 🏠 - Un système de fichiers permettant de parcourir et d'éditer des fichiers, implémenté en Java avec Quarkus
+- [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 ☁️ - Accès à n'importe quel stockage avec Apache OpenDAL
 
-#### Modèle de déploiement
-| Symbole | Signification |
-|---------|---------------|
-| 🏠 | Serveur local |
-| ☁️ | Service cloud |
+### 🗄️ <a name="bases-de-données"></a>Bases de données
 
-#### Compatibilité de plateforme
-| Symbole | Plateforme |
-|---------|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" height="20" /> | macOS |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20" /> | Windows |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" /> | Linux |
+- [modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/server-postgres) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Intégration de base de données PostgreSQL avec inspection de schéma et capacités de requête
+- [modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/server-sqlite) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Opérations de base de données SQLite avec fonctionnalités d'analyse intégrées
+- [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Service MCP pour Tablestore avec capacités de recherche vectorielle
+- [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Serveur MCP pour l'interaction avec Elasticsearch
+- [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Intégration de base de données Airtable avec inspection de schéma et capacités CRUD
+- [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Intégration BigQuery avec opérations de lecture/écriture
+- [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Intégration TiDB avec inspection de schéma et capacités de requête
+- [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Intégration ClickHouse avec inspection de schéma et capacités de requête
+- [get-convex/convex-backend](https://stack.convex.dev/convex-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Convex pour l'introspection de tables et les requêtes
+- [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - Serveur MCP multi-base de données supportant MySQL et PostgreSQL
+- [furey/mongodb-lens](https://github.com/furey/mongodb-lens) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Serveur MCP complet pour les bases de données MongoDB
+- [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Intégration MongoDB pour l'interaction LLM avec les bases de données
+- [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Protocole de contexte de modèle avec Neo4j
+- [niledatabase/nile-mcp-server](https://github.com/niledatabase/nile-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Serveur MCP pour la plateforme Postgres de Nile
+- [isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Intégration Snowflake avec opérations de lecture/écriture
+- [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Intégration Pinecone avec capacités de recherche vectorielle
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Serveur MCP de base de données universel supportant plusieurs moteurs
 
-#### Catégories de serveurs
-| Symbole | Catégorie |
-|---------|-----------|
-| 📁 | Système de fichiers |
-| 🌐 | Web/API |
-| 💾 | Base de données |
-| 🔍 | Recherche/RAG |
-| 🧠 | Outils de réflexion |
-| 🛠️ | Utilitaires |
+### 🌐 <a name="web-et-recherche"></a>Web et recherche
 
-### Serveurs MCP de référence
+- [modelcontextprotocol/server-web-browser](https://github.com/modelcontextprotocol/server-web-browser) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Navigation web et extraction de contenu
+- [modelcontextprotocol/server-search](https://github.com/modelcontextprotocol/server-search) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Recherche web avec différents moteurs
+- [modelcontextprotocol/server-chroma](https://github.com/modelcontextprotocol/server-chroma) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Intégration de base de données vectorielle Chroma pour RAG
+- [qdrant/qdrant-mcp](https://github.com/qdrant/qdrant-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Recherche vectorielle avec Qdrant
+- [weaviate/weaviate-mcp](https://github.com/weaviate/weaviate-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Recherche vectorielle avec Weaviate
+- [supabase/supabase-mcp-server](https://github.com/supabase/supabase-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Supabase avec recherche vectorielle
+- [jina-ai/jina-mcp-server](https://github.com/jina-ai/jina-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Recherche multimodale avec Jina AI
+- [milvus-io/milvus-mcp](https://github.com/milvus-io/milvus-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Recherche vectorielle avec Milvus
 
-* **[Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** ⭐ ✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" /> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" /> 📁 - Opérations de fichiers sécurisées avec contrôles d'accès configurables
+### 🔄 <a name="contrôle-de-version"></a>Contrôle de version
 
-* **[GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/github)** ⭐ ✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" /> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" /> 🌐 - Gestion de dépôts, opérations de fichiers et intégration API GitHub
+- [modelcontextprotocol/server-github](https://github.com/modelcontextprotocol/server-github) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration GitHub pour la gestion de dépôts et les opérations de fichiers
+- [modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/server-git) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Opérations Git locales
+- [gitbutlerapp/gitbutler-mcp](https://github.com/gitbutlerapp/gitbutler-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="16" height="16"/> 🏠 - Intégration GitButler pour la gestion de branches virtuelles
+- [gitlab/gitlab-mcp-server](https://github.com/gitlab/gitlab-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="16" height="16"/> ☁️ - Intégration GitLab pour la gestion de dépôts et les opérations de fichiers
 
-* **[Web Browser](https://github.com/modelcontextprotocol/servers/tree/main/src/web-browser)** ⭐ ✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" /> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" /> 🌐 - Navigation web et extraction de contenu
+### 💬 <a name="communication"></a>Communication
 
-* **[Shell](https://github.com/modelcontextprotocol/servers/tree/main/src/shell)** ⭐ ✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" /> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" /> 🛠️ - Exécution de commandes shell avec contrôles de sécurité
+- [modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/server-slack) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Slack pour la messagerie et la gestion des canaux
+- [modelcontextprotocol/server-discord](https://github.com/modelcontextprotocol/server-discord) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Discord pour la messagerie et la gestion des serveurs
+- [modelcontextprotocol/server-email](https://github.com/modelcontextprotocol/server-email) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Envoi et réception d'emails via SMTP/IMAP
+- [twilio/twilio-mcp-server](https://github.com/twilio/twilio-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Twilio pour SMS et appels téléphoniques
 
-### Serveurs communautaires
+### 🖥️ <a name="outils-de-développement"></a>Outils de développement
 
-* **[Postgres](https://github.com/modelcontextprotocol/postgres-server)** ✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" /> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" /> 💾 - Accès et requêtes PostgreSQL
+- [modelcontextprotocol/server-shell](https://github.com/modelcontextprotocol/server-shell) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Exécution de commandes shell avec contrôles de sécurité
+- [modelcontextprotocol/server-vscode](https://github.com/modelcontextprotocol/server-vscode) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Intégration VS Code pour l'édition de code et l'exécution de commandes
+- [jetbrains/intellij-mcp-server](https://github.com/jetbrains/intellij-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="16" height="16"/> 🏠 - Intégration IntelliJ pour l'édition de code et l'analyse
+- [docker/docker-mcp-server](https://github.com/docker/docker-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - Gestion des conteneurs Docker
+- [kubernetes/kubernetes-mcp-server](https://github.com/kubernetes/kubernetes-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> ☁️ - Gestion des clusters Kubernetes
 
-* **[SQLite](https://github.com/modelcontextprotocol/sqlite-server)** ✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" /> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" /> 💾 - Accès et requêtes SQLite
+### 📊 <a name="surveillance"></a>Surveillance
 
-* **[Chroma](https://github.com/modelcontextprotocol/chroma-server)** ✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" /> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" /> 🔍 - Intégration de base de données vectorielle Chroma pour RAG
+- [modelcontextprotocol/server-prometheus](https://github.com/modelcontextprotocol/server-prometheus) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Surveillance des métriques avec Prometheus
+- [modelcontextprotocol/server-grafana](https://github.com/modelcontextprotocol/server-grafana) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Visualisation des métriques avec Grafana
+- [datadog/datadog-mcp-server](https://github.com/datadog/datadog-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Surveillance des applications avec Datadog
 
-* **[OpenAI](https://github.com/modelcontextprotocol/openai-server)** ✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" /> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" /> 🧠 - Accès aux modèles et API OpenAI
+### 🧠 <a name="connaissances-et-mémoire"></a>Connaissances et mémoire
 
-* **[Anthropic](https://github.com/modelcontextprotocol/anthropic-server)** ✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" /> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" /> 🧠 - Accès aux modèles et API Anthropic
+- [modelcontextprotocol/server-openai](https://github.com/modelcontextprotocol/server-openai) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Accès aux modèles et API OpenAI
+- [modelcontextprotocol/server-anthropic](https://github.com/modelcontextprotocol/server-anthropic) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Accès aux modèles et API Anthropic
+- [modelcontextprotocol/server-ollama](https://github.com/modelcontextprotocol/server-ollama) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - Exécution de modèles locaux via Ollama
+- [huggingface/huggingface-mcp-server](https://github.com/huggingface/huggingface-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Accès aux modèles et API Hugging Face
+- [mistralai/mistral-mcp-server](https://github.com/mistralai/mistral-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Accès aux modèles et API Mistral AI
+- [cohere/cohere-mcp-server](https://github.com/cohere/cohere-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Accès aux modèles et API Cohere
 
-* **[Ollama](https://github.com/modelcontextprotocol/ollama-server)** ✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="20" height="20" /> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" /> 🧠 - Exécution de modèles locaux via Ollama
+### 🗺️ <a name="services-de-localisation"></a>Services de localisation
+
+- [modelcontextprotocol/server-maps](https://github.com/modelcontextprotocol/server-maps) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Services de cartographie et de géolocalisation
+- [mapbox/mapbox-mcp-server](https://github.com/mapbox/mapbox-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Mapbox pour la cartographie et la géolocalisation
+- [openstreetmap/osm-mcp-server](https://github.com/openstreetmap/osm-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Intégration OpenStreetMap pour la cartographie et la géolocalisation
+
+### 🎮 <a name="jeux"></a>Jeux
+
+- [modelcontextprotocol/server-minecraft](https://github.com/modelcontextprotocol/server-minecraft) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16"/> 🏠 - Intégration Minecraft pour le contrôle du jeu
+- [steam/steam-mcp-server](https://github.com/steam/steam-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="16" height="16"/> 🏠 - Intégration Steam pour l'accès aux jeux et aux statistiques
+- [roblox/roblox-mcp-server](https://github.com/roblox/roblox-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="16" height="16"/> ☁️ - Intégration Roblox pour le développement de jeux
+
+### 💰 <a name="finance"></a>Finance
+
+- [modelcontextprotocol/server-stripe](https://github.com/modelcontextprotocol/server-stripe) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Stripe pour les paiements
+- [modelcontextprotocol/server-paypal](https://github.com/modelcontextprotocol/server-paypal) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration PayPal pour les paiements
+- [plaid/plaid-mcp-server](https://github.com/plaid/plaid-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Plaid pour les données bancaires
+- [coinbase/coinbase-mcp-server](https://github.com/coinbase/coinbase-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Coinbase pour les crypto-monnaies
+
+### 🛠️ <a name="utilitaires"></a>Utilitaires
+
+- [modelcontextprotocol/server-pdf](https://github.com/modelcontextprotocol/server-pdf) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Manipulation et extraction de PDF
+- [modelcontextprotocol/server-image](https://github.com/modelcontextprotocol/server-image) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Traitement et analyse d'images
+- [modelcontextprotocol/server-audio](https://github.com/modelcontextprotocol/server-audio) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Traitement et analyse audio
+- [modelcontextprotocol/server-video](https://github.com/modelcontextprotocol/server-video) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Traitement et analyse vidéo
+- [ffmpeg/ffmpeg-mcp-server](https://github.com/ffmpeg/ffmpeg-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16" height="16"/> 🏠 - Traitement multimédia avec FFmpeg
+- [imagemagick/imagemagick-mcp-server](https://github.com/imagemagick/imagemagick-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16" height="16"/> 🏠 - Manipulation d'images avec ImageMagick
 
 ## Frameworks
 
 * **[mcp-server-ts](https://github.com/modelcontextprotocol/mcp-server-ts)** - Framework TypeScript pour créer des serveurs MCP
 * **[mcp-server-py](https://github.com/modelcontextprotocol/mcp-server-py)** - Framework Python pour créer des serveurs MCP
 * **[mcp-server-go](https://github.com/modelcontextprotocol/mcp-server-go)** - Framework Go pour créer des serveurs MCP
+* **[microsoft/mcp.net](https://github.com/microsoft/mcp.net)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="16" height="16"/> - Bibliothèque .NET pour construire des serveurs MCP
+* **[modelcontextprotocol/mcpjs](https://github.com/modelcontextprotocol/mcpjs)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> - Framework JavaScript/TypeScript pour construire des serveurs MCP
+* **[quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16"/> - Framework Java pour construire des serveurs MCP avec Quarkus
+* **[modelcontextprotocol/mcpy](https://github.com/modelcontextprotocol/mcpy)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> - Bibliothèque Python pour construire des serveurs MCP
 
 ## Utilitaires
 
