@@ -34,9 +34,6 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Building Your First MCP Server](https://modelcontextprotocol.io/docs/tutorials/first-server)
 * [MCP Server Development Guide](https://modelcontextprotocol.io/docs/server-development)
 
-## Community
-
-* [MCP GitHub](https://github.com/modelcontextprotocol/mcp)
 
 ## MCP Server Legend
 
