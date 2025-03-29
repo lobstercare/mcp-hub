@@ -132,6 +132,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Pinecone integration with vector search capabilities
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Universal database MCP server supporting mainstream databases
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Google Sheets integration for spreadsheet management
+- [rashidazarang/airtable-mcp] - Connects AI tools directly to Airtable, allowing natural language queries, record creation, updates, deletions, and data migration.
 
 ### 🌐 <a name="web--search"></a>Web & Search
 
