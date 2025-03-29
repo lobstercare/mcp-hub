@@ -77,6 +77,13 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Intégration Snowflake avec opérations de lecture/écriture
 - [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Intégration Pinecone avec capacités de recherche vectorielle
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Serveur MCP de base de données universel supportant plusieurs moteurs
+- [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Intégration Google Sheets pour la gestion de feuilles de calcul
+- [rashidazarang/airtable-mcp](https://github.com/rashidazarang/airtable-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> - Connecte les outils d'IA directement à Airtable, permettant des requêtes en langage naturel, la création, la mise à jour, la suppression d'enregistrements et la migration de données.
+- [tradercjz/dolphindb-mcp-server](https://github.com/tradercjz/dolphindb-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> - Intégration de base de données DolphinDB avec inspection de schéma et capacités de requête.
+- [felores/airtable-mcp](https://github.com/felores/airtable-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Une autre implémentation MCP pour Airtable
+- [ravenwits/mcp-server-arangodb](https://github.com/ravenwits/mcp-server-arangodb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Serveur MCP pour la base de données ArangoDB
+- [calvernaz/alphavantage](https://github.com/calvernaz/alphavantage) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - API de données du marché boursier AlphaVantage
+- [pyroprompts/any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Interagir avec n'importe quelle API compatible avec OpenAI Chat Completions
 
 ### 🌐 <a name="web-et-recherche"></a>Web et recherche
 
@@ -88,6 +95,9 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [supabase/supabase-mcp-server](https://github.com/supabase/supabase-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Supabase avec recherche vectorielle
 - [jina-ai/jina-mcp-server](https://github.com/jina-ai/jina-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Recherche multimodale avec Jina AI
 - [milvus-io/milvus-mcp](https://github.com/milvus-io/milvus-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Recherche vectorielle avec Milvus
+- [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Récupération avancée et recherche approfondie privée
+- [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Recherches web, extraction d'URL et retour de contenu en Markdown
+- [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Recherche Airbnb et obtention de détails sur les annonces
 
 ### 🔄 <a name="contrôle-de-version"></a>Contrôle de version
 
@@ -110,6 +120,13 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [jetbrains/intellij-mcp-server](https://github.com/jetbrains/intellij-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="16" height="16"/> 🏠 - Intégration IntelliJ pour l'édition de code et l'analyse
 - [docker/docker-mcp-server](https://github.com/docker/docker-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - Gestion des conteneurs Docker
 - [kubernetes/kubernetes-mcp-server](https://github.com/kubernetes/kubernetes-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> ☁️ - Gestion des clusters Kubernetes
+- [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Éditeur de texte orienté lignes optimisé pour les LLM
+- [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16"/> - Accès au terminal iTerm et exécution de commandes
+- [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Exécution de commandes avec sécurité
+- [jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Débogage automatique via points d'arrêt
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Interaction avec les produits Atlassian Cloud (Confluence et Jira)
+- [rishikavikondala/mcp-server-aws](https://github.com/rishikavikondala/mcp-server-aws) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Effectuer des opérations sur les ressources AWS
+- [Vortiago/mcp-azure-devops](https://github.com/Vortiago/mcp-azure-devops) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Pont vers les services Azure DevOps
 
 ### 📊 <a name="surveillance"></a>Surveillance
 
@@ -144,6 +161,13 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [modelcontextprotocol/server-paypal](https://github.com/modelcontextprotocol/server-paypal) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration PayPal pour les paiements
 - [plaid/plaid-mcp-server](https://github.com/plaid/plaid-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Plaid pour les données bancaires
 - [coinbase/coinbase-mcp-server](https://github.com/coinbase/coinbase-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Coinbase pour les crypto-monnaies
+- [base/base-mcp](https://github.com/base/base-mcp) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration du réseau Base et de l'API Coinbase
+- [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Données du marché des cryptomonnaies via CoinCap
+- [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - API Coinmarket pour les cotations de crypto
+- [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - API Alpha Vantage pour les données d'actions et de crypto
+- [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Services blockchain pour plus de 30 réseaux EVM
+- [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - API Bankless Onchain pour les contrats intelligents
+- [GoPlausible/algorand-mcp](https://github.com/GoPlausible/algorand-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Outils complets pour interagir avec la blockchain Algorand
 
 ### 🛠️ <a name="utilitaires"></a>Utilitaires
 
@@ -153,6 +177,12 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [modelcontextprotocol/server-video](https://github.com/modelcontextprotocol/server-video) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Traitement et analyse vidéo
 - [ffmpeg/ffmpeg-mcp-server](https://github.com/ffmpeg/ffmpeg-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16" height="16"/> 🏠 - Traitement multimédia avec FFmpeg
 - [imagemagick/imagemagick-mcp-server](https://github.com/imagemagick/imagemagick-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16" height="16"/> 🏠 - Manipulation d'images avec ImageMagick
+- [PV-Bhat/vibe-check-mcp-server](https://github.com/PV-Bhat/vibe-check-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Prévient les erreurs en cascade avec l'agent "Vibe-check"
+- [mrexodia/user-feedback-mcp](https://github.com/mrexodia/user-feedback-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Flux de travail avec intervention humaine pour les outils d'IA
+- [gotoolkits/mcp-difyworkflow-server](https://github.com/gotoolkits/mcp-difyworkflow-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Interroger et exécuter des flux de travail Dify
+- [Omar-v2/mcp-ical](https://github.com/Omar-v2/mcp-ical) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16"/> - Interagir avec le Calendrier MacOS via le langage naturel
+- [scorzeth/anki-mcp-server](https://github.com/scorzeth/anki-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Interagir avec les paquets et cartes Anki
+- [Simon-Kansara/ableton-live-mcp-server](https://github.com/Simon-Kansara/ableton-live-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Contrôler Ableton Live
 
 ## Frameworks
 
