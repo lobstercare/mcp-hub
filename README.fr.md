@@ -108,6 +108,7 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 
 ### 💬 <a name="communication"></a>Communication
 
+- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Intégration WhatsApp pour la recherche de messages, de contacts et l'envoi de messages via l'API WhatsApp Web
 - [modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/server-slack) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Slack pour la messagerie et la gestion des canaux
 - [modelcontextprotocol/server-discord](https://github.com/modelcontextprotocol/server-discord) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Discord pour la messagerie et la gestion des serveurs
 - [modelcontextprotocol/server-email](https://github.com/modelcontextprotocol/server-email) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Envoi et réception d'emails via SMTP/IMAP
