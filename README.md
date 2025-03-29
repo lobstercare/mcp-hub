@@ -162,6 +162,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ### 💬 <a name="communication"></a>Communication
 
+- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - WhatsApp integration for searching messages, contacts, and sending messages via WhatsApp Web API
 - [modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/server-slack) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Slack workspace integration for channel management and messaging
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16"/> - Safe access to iMessage database
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16"/> - iMessage interface with sending/receiving capabilities
