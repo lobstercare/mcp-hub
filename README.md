@@ -120,7 +120,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - MCP Server for Elasticsearch interaction
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Airtable database integration with schema inspection and CRUD capabilities
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - BigQuery database integration with schema inspection and query capabilities
-- [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/>   ☁️ - Second (But with JS) BigQuery database integration with schema inspection and query capabilities
+- [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Second (But with JS) BigQuery database integration with schema inspection and query capabilities
 - [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - TiDB database integration with schema inspection and query capabilities
 - [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - ClickHouse database integration with schema inspection and query capabilities
 - [get-convex/convex-backend](https://stack.convex.dev/convex-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Convex database integration for table introspection and queries
@@ -135,6 +135,9 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Google Sheets integration for spreadsheet management
 - [rashidazarang/airtable-mcp](https://github.com/rashidazarang/airtable-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> - Connects AI tools directly to Airtable, allowing natural language queries, record creation, updates, deletions, and data migration.
 - [tradercjz/dolphindb-mcp-server](https://github.com/tradercjz/dolphindb-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> -  DolphinDB database integration with schema inspection and query capabilities.
+- [felores/airtable-mcp](https://github.com/felores/airtable-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Another Airtable MCP implementation
+- [ravenwits/mcp-server-arangodb](https://github.com/ravenwits/mcp-server-arangodb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - MCP Server for ArangoDB database
+- [calvernaz/alphavantage](https://github.com/calvernaz/alphavantage) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - AlphaVantage stock market data API
 
 ### 🌐 <a name="web--search"></a>Web & Search
 
@@ -148,6 +151,8 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Web search using DuckDuckGo
 - [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Advanced retrieval and Private Deep Research
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Web searches, URL scraping, and Markdown content return
+- [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Search Airbnb and get listing details
+- [pyroprompts/any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Interact with any OpenAI SDK Compatible Chat Completions API
 
 ### 🔄 <a name="version-control"></a>Version Control
 
@@ -176,6 +181,9 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16"/> - iTerm terminal access and command execution
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Run any command with secure execution
 - [jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Automatic debugging via breakpoints
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Interact with Atlassian Cloud products (Confluence and Jira)
+- [rishikavikondala/mcp-server-aws](https://github.com/rishikavikondala/mcp-server-aws) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Perform operations on AWS resources
+- [Vortiago/mcp-azure-devops](https://github.com/Vortiago/mcp-azure-devops) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Bridge to Azure DevOps services
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
@@ -217,6 +225,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Alpha Vantage API for stock and crypto data
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Blockchain services for 30+ EVM networks
 - [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Bankless Onchain API for smart contracts
+- [GoPlausible/algorand-mcp](https://github.com/GoPlausible/algorand-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Comprehensive tools for interacting with Algorand blockchain
 
 ### 🛠️ <a name="utilities"></a>Utilities
 
@@ -228,6 +237,9 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [PV-Bhat/vibe-check-mcp-server](https://github.com/PV-Bhat/vibe-check-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Prevents cascading errors with "Vibe-check" agent
 - [mrexodia/user-feedback-mcp](https://github.com/mrexodia/user-feedback-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Human-in-the-loop workflow for AI tools
 - [gotoolkits/mcp-difyworkflow-server](https://github.com/gotoolkits/mcp-difyworkflow-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Query and execute Dify workflows
+- [Omar-v2/mcp-ical](https://github.com/Omar-v2/mcp-ical) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16"/> - Interact with MacOS Calendar through natural language
+- [scorzeth/anki-mcp-server](https://github.com/scorzeth/anki-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Interact with Anki decks and cards
+- [Simon-Kansara/ableton-live-mcp-server](https://github.com/Simon-Kansara/ableton-live-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Control Ableton Live
 
 ## Frameworks
 
