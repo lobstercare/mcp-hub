@@ -173,6 +173,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 ### 🖥️ <a name="developer-tools"></a>Developer Tools
 
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Figma data access for design implementation
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Kubernetes management and operations
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - Docker container management and operations
 - [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16"/> - Xcode integration for project management
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - Connect any HTTP/REST API using OpenAPI specs
