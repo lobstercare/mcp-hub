@@ -211,6 +211,8 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Geocoding server for nominatim, ArcGIS, Bing
 - [briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - IP geolocation and network information
 - [jjsantos01/qgis_mcp](https://github.com/jjsantos01/qgis_mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - QGIS Desktop integration for geospatial analysis
+- [sunsetcoder/flightradar24-mcp-server](https://github.com/sunsetcoder/flightradar24-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Track flights in real-time, get arrival/departure times, view airport flight statuses, and monitor emergency flights
+
 
 ### 🎮 <a name="gaming"></a>Gaming
 
