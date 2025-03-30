@@ -150,6 +150,7 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [modelcontextprotocol/server-maps](https://github.com/modelcontextprotocol/server-maps) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Services de cartographie et de géolocalisation
 - [mapbox/mapbox-mcp-server](https://github.com/mapbox/mapbox-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Mapbox pour la cartographie et la géolocalisation
 - [openstreetmap/osm-mcp-server](https://github.com/openstreetmap/osm-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Intégration OpenStreetMap pour la cartographie et la géolocalisation
+- [sunsetcoder/flightradar24-mcp-server](https://github.com/sunsetcoder/flightradar24-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Suivi des vols en temps réel, obtention des heures d'arrivée/départ, visualisation des statuts de vols dans les aéroports et surveillance des vols d'urgence
 
 ### 🎮 <a name="jeux"></a>Jeux
 
