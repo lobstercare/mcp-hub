@@ -108,17 +108,16 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 
 ### 💬 <a name="communication"></a>Communication
 
-- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Intégration WhatsApp pour la recherche de messages, de contacts et l'envoi de messages via l'API WhatsApp Web
 - [modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/server-slack) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Slack pour la messagerie et la gestion des canaux
 - [modelcontextprotocol/server-discord](https://github.com/modelcontextprotocol/server-discord) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Discord pour la messagerie et la gestion des serveurs
 - [modelcontextprotocol/server-email](https://github.com/modelcontextprotocol/server-email) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Envoi et réception d'emails via SMTP/IMAP
 - [twilio/twilio-mcp-server](https://github.com/twilio/twilio-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Twilio pour SMS et appels téléphoniques
+- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Intégration WhatsApp pour la recherche de messages, de contacts et l'envoi de messages via l'API WhatsApp Web
 
 ### 🖥️ <a name="outils-de-développement"></a>Outils de développement
 
 - [modelcontextprotocol/server-shell](https://github.com/modelcontextprotocol/server-shell) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Exécution de commandes shell avec contrôles de sécurité
 - [modelcontextprotocol/server-vscode](https://github.com/modelcontextprotocol/server-vscode) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Intégration VS Code pour l'édition de code et l'exécution de commandes
-- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Gestion des clusters Kubernetes (en Python) qui permet aux assistants IA comme Claude, Cursor et d'autres d'interagir avec des clusters Kubernetes par le biais du langage naturel
 - [jetbrains/intellij-mcp-server](https://github.com/jetbrains/intellij-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="16" height="16"/> 🏠 - Intégration IntelliJ pour l'édition de code et l'analyse
 - [docker/docker-mcp-server](https://github.com/docker/docker-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - Gestion des conteneurs Docker
 - [kubernetes/kubernetes-mcp-server](https://github.com/kubernetes/kubernetes-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> ☁️ - Gestion des clusters Kubernetes
@@ -144,6 +143,8 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [huggingface/huggingface-mcp-server](https://github.com/huggingface/huggingface-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Accès aux modèles et API Hugging Face
 - [mistralai/mistral-mcp-server](https://github.com/mistralai/mistral-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Accès aux modèles et API Mistral AI
 - [cohere/cohere-mcp-server](https://github.com/cohere/cohere-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Accès aux modèles et API Cohere
+- [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Lire et rechercher dans votre coffre-fort Obsidian ou tout répertoire contenant des notes Markdown
+- [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Conversion transparente de formats de documents utilisant Pandoc, prenant en charge Markdown, HTML, PDF, DOCX, CSV et plus
 
 ### 🗺️ <a name="services-de-localisation"></a>Services de localisation
 
@@ -151,12 +152,17 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [mapbox/mapbox-mcp-server](https://github.com/mapbox/mapbox-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Mapbox pour la cartographie et la géolocalisation
 - [openstreetmap/osm-mcp-server](https://github.com/openstreetmap/osm-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Intégration OpenStreetMap pour la cartographie et la géolocalisation
 - [sunsetcoder/flightradar24-mcp-server](https://github.com/sunsetcoder/flightradar24-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Suivi des vols en temps réel, obtention des heures d'arrivée/départ, visualisation des statuts de vols dans les aéroports et surveillance des vols d'urgence
+- [ProgramComputer/NASA-MCP-server](https://github.com/ProgramComputer/NASA-MCP-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Accès à une passerelle unifiée des sources de données de la NASA, incluant APOD, NEO, EPIC, GIBS
+- [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Informations à jour sur les détails des parcs nationaux américains, alertes, centres d'accueil, campings, sentiers de randonnée et événements
+- [r-huijts/ns-mcp-server](https://github.com/r-huijts/ns-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Accès aux informations de voyage en temps réel des chemins de fer néerlandais (NS) et aux perturbations via l'API officielle NS
+- [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Interface avec l'API du Rijksmuseum pour rechercher des œuvres d'art, récupérer des détails, accéder aux tuiles d'images et explorer les collections
 
 ### 🎮 <a name="jeux"></a>Jeux
 
 - [modelcontextprotocol/server-minecraft](https://github.com/modelcontextprotocol/server-minecraft) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16"/> 🏠 - Intégration Minecraft pour le contrôle du jeu
 - [steam/steam-mcp-server](https://github.com/steam/steam-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="16" height="16"/> 🏠 - Intégration Steam pour l'accès aux jeux et aux statistiques
 - [roblox/roblox-mcp-server](https://github.com/roblox/roblox-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="16" height="16"/> ☁️ - Intégration Roblox pour le développement de jeux
+- [varunneal/spotify-mcp](https://github.com/varunneal/spotify-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Permet à un LLM de contrôler et d'utiliser Spotify
 
 ### 💰 <a name="finance"></a>Finance
 
@@ -186,6 +192,13 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [Omar-v2/mcp-ical](https://github.com/Omar-v2/mcp-ical) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16"/> - Interagir avec le Calendrier MacOS via le langage naturel
 - [scorzeth/anki-mcp-server](https://github.com/scorzeth/anki-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Interagir avec les paquets et cartes Anki
 - [Simon-Kansara/ableton-live-mcp-server](https://github.com/Simon-Kansara/ableton-live-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Contrôler Ableton Live
+
+### 📊 <a name="visualisation-de-données"></a>Visualisation de données
+
+- [modelcontextprotocol/server-charts](https://github.com/modelcontextprotocol/server-charts) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Génération et visualisation de graphiques
+- [plotly/plotly-mcp-server](https://github.com/plotly/plotly-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Intégration Plotly pour graphiques interactifs
+- [d3/d3-mcp-server](https://github.com/d3/d3-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16"/> 🏠 - Intégration D3.js pour la visualisation de données
+- [GongRzhe/Quickchart-MCP-Server](https://github.com/GongRzhe/Quickchart-MCP-Server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Un serveur Model Context Protocol pour générer des graphiques en utilisant QuickChart.io
 
 ## Frameworks
 
