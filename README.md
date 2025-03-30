@@ -118,7 +118,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/server-sqlite) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - SQLite database operations with built-in analysis features
 - [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - MCP service for Tablestore with vector search capabilities
 - [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - MCP Server for Elasticsearch interaction
-- [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Airtable database integration with schema inspection and CRUD capabilities
+- [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Airtable database integration with schema inspection and CRUD capabilities
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - BigQuery database integration with schema inspection and query capabilities
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Second (But with JS) BigQuery database integration with schema inspection and query capabilities
 - [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - TiDB database integration with schema inspection and query capabilities
@@ -153,6 +153,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Web searches, URL scraping, and Markdown content return
 - [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Search Airbnb and get listing details
 - [pyroprompts/any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Interact with any OpenAI SDK Compatible Chat Completions API
+- [quickchart/quickchart-mcp-server](https://github.com/quickchart/quickchart-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - QuickChart API integration for generating images of charts
 
 ### 🔄 <a name="version-control"></a>Version Control
 
@@ -203,6 +204,8 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Documentation retrieval through vector search
 - [kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Zotero Cloud integration for research collections
 - [graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Knowledge retrieval from Slack, Discord, and more
+- [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Read and search through your Obsidian vault or any directory containing Markdown notes
+- [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Seamless document format conversion using Pandoc, supporting Markdown, HTML, PDF, DOCX, CSV and more
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
@@ -212,7 +215,10 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - IP geolocation and network information
 - [jjsantos01/qgis_mcp](https://github.com/jjsantos01/qgis_mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - QGIS Desktop integration for geospatial analysis
 - [sunsetcoder/flightradar24-mcp-server](https://github.com/sunsetcoder/flightradar24-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Track flights in real-time, get arrival/departure times, view airport flight statuses, and monitor emergency flights
-
+- [ProgramComputer/NASA-MCP-server](https://github.com/ProgramComputer/NASA-MCP-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Access to a unified gateway of NASA's data sources including APOD, NEO, EPIC, GIBS
+- [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Up-to-date information on U.S. National Parks details, alerts, visitor centers, campgrounds, hiking trails, and events
+- [r-huijts/ns-mcp-server](https://github.com/r-huijts/ns-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Access to Dutch Railways (NS) real-time travel information and disruptions via the official NS API
+- [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Interface with the Rijksmuseum API to search artworks, retrieve details, access image tiles, and explore collections
 
 ### 🎮 <a name="gaming"></a>Gaming
 
@@ -220,6 +226,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Fantasy Premier League data and analysis
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="16" height="16"/> 🏠 - Unity3D Game Engine integration
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - VRChat API interaction for friends, worlds, and avatars
+- [varunneal/spotify-mcp](https://github.com/varunneal/spotify-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Allows an LLM to control and use Spotify
 
 ### 💰 <a name="finance"></a>Finance
 
