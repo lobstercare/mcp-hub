@@ -98,6 +98,7 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Récupération avancée et recherche approfondie privée
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Recherches web, extraction d'URL et retour de contenu en Markdown
 - [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Recherche Airbnb et obtention de détails sur les annonces
+- [mcp/aws-kb-retrieval-server](https://hub.docker.com/r/mcp/aws-kb-retrieval-server) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Serveur MCP pour récupérer des informations de la Base de Connaissances AWS en utilisant le Runtime de l'Agent Bedrock
 
 ### 🔄 <a name="contrôle-de-version"></a>Contrôle de version
 
@@ -192,6 +193,8 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [Omar-v2/mcp-ical](https://github.com/Omar-v2/mcp-ical) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16"/> - Interagir avec le Calendrier MacOS via le langage naturel
 - [scorzeth/anki-mcp-server](https://github.com/scorzeth/anki-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Interagir avec les paquets et cartes Anki
 - [Simon-Kansara/ableton-live-mcp-server](https://github.com/Simon-Kansara/ableton-live-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Contrôler Ableton Live
+- [nickbaumann98/everart-forge-mcp](https://github.com/nickbaumann98/everart-forge-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Génération d'images IA utilisant divers modèles
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Création instantanée de composants UI modernes et élégants via des descriptions en langage naturel
 
 ### 📊 <a name="visualisation-de-données"></a>Visualisation de données
 
