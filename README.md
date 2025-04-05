@@ -27,6 +27,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Windsurf](https://www.windsurf.ai/) - AI-native IDE with MCP support
 * [LibreChat](https://www.librechat.ai/) - Open-source AI Web UI supporting multiple providers including MCP
 * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A Neovim plugin for MCP server interaction
+* [WhatsMCP](http://wassist.app/mcp) - A WhatsApp based client for your remote MCP servers
 
 ## Tutorials
 
