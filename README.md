@@ -255,6 +255,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [Simon-Kansara/ableton-live-mcp-server](https://github.com/Simon-Kansara/ableton-live-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Control Ableton Live
 - [nickbaumann98/everart-forge-mcp](https://github.com/nickbaumann98/everart-forge-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - AI image generation using various models
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Create beautiful, modern UI components instantly through natural language descriptions
+- [kw510/strava-mcp](https://github.com/kw510/strava-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Strava API integration for activity tracking and analysis
 
 ## Frameworks
 
