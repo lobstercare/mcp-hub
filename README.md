@@ -189,6 +189,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Interact with Atlassian Cloud products (Confluence and Jira)
 - [rishikavikondala/mcp-server-aws](https://github.com/rishikavikondala/mcp-server-aws) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Perform operations on AWS resources
 - [Vortiago/mcp-azure-devops](https://github.com/Vortiago/mcp-azure-devops) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Bridge to Azure DevOps services
+- [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) <img src="https://edgeone.ai/favicon.ico" width="16" height="16"/> 🏠 - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
