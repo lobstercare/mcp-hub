@@ -26,11 +26,12 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 * [Windsurf](https://www.windsurf.ai/) - IDE avec IA intégrée et support MCP
 * [LibreChat](https://www.librechat.ai/) - Interface Web d'IA open-source supportant plusieurs fournisseurs, dont MCP
 * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - Un plugin Neovim pour l'interaction avec les serveurs MCP
-
+* [WhatsMCP](http://wassist.app/mcp) - Mcp Basé client pour WhatsApp
 ## Tutoriels
 
 * [Guide de démarrage rapide du Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/quickstart)
 * [Construire votre premier serveur MCP](https://modelcontextprotocol.io/docs/tutorials/first-server)
+* [Guide de développement de serveur MCP](https://modelcontextprotocol.io/docs/server-development)
 
 ## Implémentations de serveurs
 
@@ -53,6 +54,7 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/server-google-drive) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Google Drive pour lister, lire et rechercher des fichiers
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - Implémentation Golang pour l'accès au système de fichiers local
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Box pour lister, lire et rechercher des fichiers
+- [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 ☁️ - Accès à n'importe quel stockage avec Apache OpenDAL
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="16" height="16"/> - Recherche rapide de fichiers Windows utilisant Everything SDK
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Partage du contexte de code avec les LLM via MCP ou le presse-papiers
 - [quarkiverse/quarkus-mcp-servers/filesystem](https://github.com/quarkiverse/quarkus-mcp-servers/filesystem) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16"/> 🏠 - Un système de fichiers permettant de parcourir et d'éditer des fichiers, implémenté en Java avec Quarkus
@@ -82,7 +84,11 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [tradercjz/dolphindb-mcp-server](https://github.com/tradercjz/dolphindb-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> - Intégration de base de données DolphinDB avec inspection de schéma et capacités de requête.
 - [felores/airtable-mcp](https://github.com/felores/airtable-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Une autre implémentation MCP pour Airtable
 - [ravenwits/mcp-server-arangodb](https://github.com/ravenwits/mcp-server-arangodb) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Serveur MCP pour la base de données ArangoDB
+- [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Protocole de contexte de modèle avec Neo4j
+- [niledatabase/nile-mcp-server](https://github.com/niledatabase/nile-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Serveur MCP pour la plateforme Postgres de Nile
 - [calvernaz/alphavantage](https://github.com/calvernaz/alphavantage) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - API de données du marché boursier AlphaVantage
+- [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Intégration Google Sheets pour la gestion des feuilles de calcul
+- [edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Serveur MCP pour la base de données NocoDB
 - [pyroprompts/any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Interagir avec n'importe quelle API compatible avec OpenAI Chat Completions
 
 ### 🌐 <a name="web-et-recherche"></a>Web et recherche
@@ -91,6 +97,8 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [modelcontextprotocol/server-search](https://github.com/modelcontextprotocol/server-search) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Recherche web avec différents moteurs
 - [modelcontextprotocol/server-chroma](https://github.com/modelcontextprotocol/server-chroma) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Intégration de base de données vectorielle Chroma pour RAG
 - [qdrant/qdrant-mcp](https://github.com/qdrant/qdrant-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Recherche vectorielle avec Qdrant
+- [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration de l'API de recherche Kagi
+- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration de l'API de recherche Exa AI
 - [weaviate/weaviate-mcp](https://github.com/weaviate/weaviate-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Recherche vectorielle avec Weaviate
 - [supabase/supabase-mcp-server](https://github.com/supabase/supabase-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Supabase avec recherche vectorielle
 - [jina-ai/jina-mcp-server](https://github.com/jina-ai/jina-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Recherche multimodale avec Jina AI
@@ -114,6 +122,8 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [modelcontextprotocol/server-email](https://github.com/modelcontextprotocol/server-email) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Envoi et réception d'emails via SMTP/IMAP
 - [twilio/twilio-mcp-server](https://github.com/twilio/twilio-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration Twilio pour SMS et appels téléphoniques
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Intégration WhatsApp pour la recherche de messages, de contacts et l'envoi de messages via l'API WhatsApp Web
+- [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Interaction avec la recherche et le fil d'actualité Twitter
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Gestion des emails avec détection de suivi
 
 ### 🖥️ <a name="outils-de-développement"></a>Outils de développement
 
@@ -122,6 +132,8 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [jetbrains/intellij-mcp-server](https://github.com/jetbrains/intellij-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="16" height="16"/> 🏠 - Intégration IntelliJ pour l'édition de code et l'analyse
 - [docker/docker-mcp-server](https://github.com/docker/docker-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - Gestion des conteneurs Docker
 - [kubernetes/kubernetes-mcp-server](https://github.com/kubernetes/kubernetes-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> ☁️ - Gestion des clusters Kubernetes
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Gestion et opérations Kubernetes
+- [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - Gestion et opérations des conteneurs Docker
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Éditeur de texte orienté lignes optimisé pour les LLM
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16"/> - Accès au terminal iTerm et exécution de commandes
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Exécution de commandes avec sécurité
@@ -196,6 +208,11 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [Simon-Kansara/ableton-live-mcp-server](https://github.com/Simon-Kansara/ableton-live-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Contrôler Ableton Live
 - [nickbaumann98/everart-forge-mcp](https://github.com/nickbaumann98/everart-forge-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Génération d'images IA utilisant divers modèles
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Création instantanée de composants UI modernes et élégants via des descriptions en langage naturel
+- [Omar-v2/mcp-ical](https://github.com/Omar-v2/mcp-ical) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16"/> - Interaction avec le Calendrier MacOS via le langage naturel
+- [scorzeth/anki-mcp-server](https://github.com/scorzeth/anki-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Interaction avec les paquets et cartes Anki
+- [Simon-Kansara/ableton-live-mcp-server](https://github.com/Simon-Kansara/ableton-live-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Contrôler Ableton Live
+- [nickbaumann98/everart-forge-mcp](https://github.com/nickbaumann98/everart-forge-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Génération d'images IA utilisant divers modèles
+- [kw510/strava-mcp](https://github.com/kw510/strava-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Intégration de l'API Strava pour le suivi et l'analyse des activités sportives
 
 ### 📊 <a name="visualisation-de-données"></a>Visualisation de données
 
@@ -206,9 +223,7 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 
 ## Frameworks
 
-* **[mcp-server-ts](https://github.com/modelcontextprotocol/mcp-server-ts)** - Framework TypeScript pour créer des serveurs MCP
-* **[mcp-server-py](https://github.com/modelcontextprotocol/mcp-server-py)** - Framework Python pour créer des serveurs MCP
-* **[mcp-server-go](https://github.com/modelcontextprotocol/mcp-server-go)** - Framework Go pour créer des serveurs MCP
+* **[hannesrudolph/fastmcp](https://github.com/hannesrudolph/fastmcp)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> - Framework Python pour construire des serveurs MCP avec FastAPI
 * **[microsoft/mcp.net](https://github.com/microsoft/mcp.net)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="16" height="16"/> - Bibliothèque .NET pour construire des serveurs MCP
 * **[modelcontextprotocol/mcpjs](https://github.com/modelcontextprotocol/mcpjs)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> - Framework JavaScript/TypeScript pour construire des serveurs MCP
 * **[quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16"/> - Framework Java pour construire des serveurs MCP avec Quarkus
@@ -216,9 +231,9 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 
 ## Utilitaires
 
-* **[mcp-cli](https://github.com/modelcontextprotocol/mcp-cli)** - Outil en ligne de commande pour gérer et tester les serveurs MCP
-* **[mcp-js](https://github.com/modelcontextprotocol/mcp-js)** - Client JavaScript pour interagir avec les serveurs MCP
-* **[mcp-py](https://github.com/modelcontextprotocol/mcp-py)** - Client Python pour interagir avec les serveurs MCP
+* **[modelcontextprotocol/mcp-cli](https://github.com/modelcontextprotocol/mcp-cli)** ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> - Outil en ligne de commande pour tester les serveurs MCP
+* **[modelcontextprotocol/mcp-proxy](https://github.com/modelcontextprotocol/mcp-proxy)** ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> - Proxy pour déboguer les interactions des serveurs MCP
+* **[modelcontextprotocol/mcp-playground](https://github.com/modelcontextprotocol/mcp-playground)** ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> - Environnement web pour tester les serveurs MCP
 
 ## Communauté
 
