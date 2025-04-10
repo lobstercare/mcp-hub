@@ -129,6 +129,7 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Interaction avec les produits Atlassian Cloud (Confluence et Jira)
 - [rishikavikondala/mcp-server-aws](https://github.com/rishikavikondala/mcp-server-aws) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Effectuer des opérations sur les ressources AWS
 - [Vortiago/mcp-azure-devops](https://github.com/Vortiago/mcp-azure-devops) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Pont vers les services Azure DevOps
+- [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) <img src="https://edgeone.ai/favicon.ico" width="16" height="16"/> 🏠 - Un service MCP pour déployer du contenu HTML sur EdgeOne Pages et obtenir une URL accessible publiquement.
 
 ### 📊 <a name="surveillance"></a>Surveillance
 
