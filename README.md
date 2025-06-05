@@ -28,6 +28,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [LibreChat](https://www.librechat.ai/) - Open-source AI Web UI supporting multiple providers including MCP
 * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A Neovim plugin for MCP server interaction
 * [WhatsMCP](http://wassist.app/mcp) - A WhatsApp based client for your remote MCP servers
+* [Mcps-playground](https://mcpsplayground.com/chat) - a playground for Remote MCP servers
 
 ## Tutorials
 
