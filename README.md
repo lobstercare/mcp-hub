@@ -240,6 +240,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Blockchain services for 30+ EVM networks
 - [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Bankless Onchain API for smart contracts
 - [GoPlausible/algorand-mcp](https://github.com/GoPlausible/algorand-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Comprehensive tools for interacting with Algorand blockchain
+- [hive-intel/hive-crypto-mcp](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
 
 ### 🛠️ <a name="utilities"></a>Utilities
 
