@@ -198,6 +198,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Search dashboards and query datasources in Grafana
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Access to OpenTelemetry traces and metrics
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - System monitoring for CPU, memory, disk, and network
+- [automatikstudio/sitescore-mcp](https://github.com/automatikstudio/sitescore-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Website analysis and SEO scoring for performance optimization
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
@@ -257,6 +258,16 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [nickbaumann98/everart-forge-mcp](https://github.com/nickbaumann98/everart-forge-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - AI image generation using various models
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Create beautiful, modern UI components instantly through natural language descriptions
 - [kw510/strava-mcp](https://github.com/kw510/strava-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Strava API integration for activity tracking and analysis
+- [automatikstudio/adcraft-mcp](https://github.com/automatikstudio/adcraft-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - AI-powered advertising and marketing content creation
+- [automatikstudio/brandsnap-mcp](https://github.com/automatikstudio/brandsnap-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Brand analysis and competitive intelligence for marketing strategies
+- [automatikstudio/copyforge-mcp](https://github.com/automatikstudio/copyforge-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Professional copywriting and content generation for marketing
+- [automatikstudio/hirescript-mcp](https://github.com/automatikstudio/hirescript-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Automated recruitment content and job description generation
+- [automatikstudio/legalforge-mcp](https://github.com/automatikstudio/legalforge-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Legal document creation and contract drafting assistance
+- [automatikstudio/pitchdeck-mcp](https://github.com/automatikstudio/pitchdeck-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Professional pitch deck and presentation creation
+- [automatikstudio/proofbase-mcp](https://github.com/automatikstudio/proofbase-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Advanced proofreading and content quality enhancement
+- [automatikstudio/proposalpilot-mcp](https://github.com/automatikstudio/proposalpilot-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Business proposal and RFP response generation
+- [automatikstudio/remixpost-mcp](https://github.com/automatikstudio/remixpost-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Social media content remixing and cross-platform optimization
+- [automatikstudio/reviewreply-mcp](https://github.com/automatikstudio/reviewreply-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Customer review management and response generation
 
 ## Frameworks
 
