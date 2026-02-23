@@ -265,6 +265,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [modelcontextprotocol/mcpjs](https://github.com/modelcontextprotocol/mcpjs) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> - JavaScript/TypeScript framework for building MCP servers
 - [quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16"/> - Java framework for building MCP servers with Quarkus
 - [modelcontextprotocol/mcpy](https://github.com/modelcontextprotocol/mcpy) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> - Python library for building MCP servers
+- [openagents-org/openagents](https://github.com/openagents-org/openagents) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ 🏠 - Open-source platform for building AI agent networks with multi-protocol support (MCP, A2A, WebSocket, gRPC, HTTP).
 
 ## Utilities
 
