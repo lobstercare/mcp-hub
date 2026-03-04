@@ -161,6 +161,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [quickchart/quickchart-mcp-server](https://github.com/quickchart/quickchart-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - QuickChart API integration for generating images of charts
 - [shopsavvy/shopsavvy-mcp-server](https://github.com/shopsavvy/shopsavvy-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`
 - [mcp/aws-kb-retrieval-server](https://hub.docker.com/r/mcp/aws-kb-retrieval-server) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - MCP server for retrieving information from the AWS Knowledge Base using the Bedrock Agent Runtime
+- [pranciskus/newsmcp](https://github.com/pranciskus/newsmcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 
 ### 🔄 <a name="version-control"></a>Version Control
 
