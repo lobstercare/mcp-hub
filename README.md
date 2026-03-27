@@ -252,6 +252,8 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Bankless Onchain API for smart contracts
 - [GoPlausible/algorand-mcp](https://github.com/GoPlausible/algorand-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Comprehensive tools for interacting with Algorand blockchain
 - [hive-intel/hive-crypto-mcp](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
+- [coinpaprika/coinpaprika-mcp](https://github.com/coinpaprika/coinpaprika-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Crypto market data for 12,000+ coins, 350+ exchanges. Tickers, OHLCV, historical prices. Free, no API key.
+- [coinpaprika/dexpaprika-mcp](https://github.com/coinpaprika/dexpaprika-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Real-time DEX data across 34 blockchains. 30M+ pools, 27M+ tokens, OHLCV, trades. Free, no API key.
 
 ### 🛠️ <a name="utilities"></a>Utilities
 
