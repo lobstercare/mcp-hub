@@ -296,6 +296,10 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [modelcontextprotocol/mcp-proxy](https://github.com/modelcontextprotocol/mcp-proxy) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> - Proxy for debugging MCP server interactions
 - [modelcontextprotocol/mcp-playground](https://github.com/modelcontextprotocol/mcp-playground) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> - Web-based playground for testing MCP servers
 
+## Community
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and distribute AI agent capabilities.
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to add or update MCP servers in this list.
