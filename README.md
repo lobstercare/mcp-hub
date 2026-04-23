@@ -303,3 +303,5 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to add or upda
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+- [google-maps-scraper-mcp](https://github.com/khadinakbaronline/google-maps-scraper-mcp) — Google Maps MCP — scrape B2B leads, emails, phones, ratings and reviews inside any AI agent.
