@@ -255,6 +255,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ### 🛠️ <a name="utilities"></a>Utilities
 
+- [Coding-Dev-Tools/click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Automatically convert any Click/Typer CLI into an MCP server
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Calculator for precise numerical calculations
 - [isaacwasserman/mcp-vegalite-server](https://github.com/isaacwasserman/mcp-vegalite-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Generate visualizations from data
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Fetch YouTube subtitles
