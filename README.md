@@ -252,6 +252,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Bankless Onchain API for smart contracts
 - [GoPlausible/algorand-mcp](https://github.com/GoPlausible/algorand-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Comprehensive tools for interacting with Algorand blockchain
 - [hive-intel/hive-crypto-mcp](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
+- [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - 205 pay-per-call MCP capabilities covering finance, crypto/DeFi, prediction markets, weather, and research data. Agents pay USDC micropayments via x402 protocol on Base — no API keys required.
 
 ### 🛠️ <a name="utilities"></a>Utilities
 
