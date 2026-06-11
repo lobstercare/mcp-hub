@@ -192,6 +192,7 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - API Bankless Onchain pour les contrats intelligents
 - [GoPlausible/algorand-mcp](https://github.com/GoPlausible/algorand-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Outils complets pour interagir avec la blockchain Algorand
 
+- [twzrd-sol/twzrd-agent-intel](https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Notation de confiance des agents Solana via micropaiements x402 — vérifications préliminaires on-chain gratuites et reçus de confiance signés payants réglés en moins d'une seconde sur intel.twzrd.xyz/mcp
 ### 🛠️ <a name="utilitaires"></a>Utilitaires
 
 - [modelcontextprotocol/server-pdf](https://github.com/modelcontextprotocol/server-pdf) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Manipulation et extraction de PDF
