@@ -283,6 +283,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [automatikstudio/remixpost-mcp](https://github.com/automatikstudio/remixpost-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Social media content remixing and cross-platform optimization
 - [automatikstudio/reviewreply-mcp](https://github.com/automatikstudio/reviewreply-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Customer review management and response generation
 - [Humanizer PRO](https://github.com/khadinakbaronline/humanizer-pro-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> - Transforms AI-generated text into natural, human-sounding content with stealth, academic, and SEO modes. Includes AI detection scanning. [Website](https://texthumanizer.pro)
+- [MohamedAbdallah-14/prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Generate production-ready visual assets (app icons, favicons, OG images, logos) by routing prompts across 30+ image generation models
 
 ## Frameworks
 
