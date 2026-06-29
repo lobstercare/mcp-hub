@@ -163,6 +163,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [BuyWhere](https://github.com/BuyWhere/buywhere-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Real-time product search and price comparison across 260K+ products from Lazada, Shopee, FairPrice, Courts, and other Southeast Asia merchants. Free API key at [buywhere.ai/api-keys](https://buywhere.ai/api-keys). Published as `@buywhere/mcp-server`
 - [mcp/aws-kb-retrieval-server](https://hub.docker.com/r/mcp/aws-kb-retrieval-server) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - MCP server for retrieving information from the AWS Knowledge Base using the Bedrock Agent Runtime
 - [pranciskus/newsmcp](https://github.com/pranciskus/newsmcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
+- [estevecastells/llmpulse-mcp](https://github.com/estevecastells/llmpulse-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="16" height="16"/> ☁️ - AI search visibility (GEO/AEO): brand mentions, citations, share of voice, and AI-referred traffic across ChatGPT, Perplexity, Gemini, and Google AI Overviews
 
 ### 🔄 <a name="version-control"></a>Version Control
 
@@ -283,6 +284,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [automatikstudio/remixpost-mcp](https://github.com/automatikstudio/remixpost-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Social media content remixing and cross-platform optimization
 - [automatikstudio/reviewreply-mcp](https://github.com/automatikstudio/reviewreply-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Customer review management and response generation
 - [Humanizer PRO](https://github.com/khadinakbaronline/humanizer-pro-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> - Transforms AI-generated text into natural, human-sounding content with stealth, academic, and SEO modes. Includes AI detection scanning. [Website](https://texthumanizer.pro)
+- [estevecastells/domscan-mcp](https://github.com/estevecastells/domscan-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Domain intelligence: availability across 1500+ TLDs, DNS, WHOIS/RDAP, SSL, subdomains, valuation, email security, and typosquatting/brand protection
 
 ## Frameworks
 
