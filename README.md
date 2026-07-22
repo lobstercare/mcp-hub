@@ -283,7 +283,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [automatikstudio/remixpost-mcp](https://github.com/automatikstudio/remixpost-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Social media content remixing and cross-platform optimization
 - [automatikstudio/reviewreply-mcp](https://github.com/automatikstudio/reviewreply-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Customer review management and response generation
 - [Humanizer PRO](https://github.com/khadinakbaronline/humanizer-pro-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> - Transforms AI-generated text into natural, human-sounding content with stealth, academic, and SEO modes. Includes AI detection scanning. [Website](https://texthumanizer.pro)
-- [estevecastells/domscan-mcp](https://github.com/estevecastells/domscan-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Domain intelligence: availability across 1500+ TLDs, DNS, WHOIS/RDAP, SSL, subdomains, valuation, email security, and typosquatting/brand protection
+- [estevecastells/domscan-mcp](https://github.com/estevecastells/domscan-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Domain intelligence: availability, DNS, WHOIS/RDAP, SSL, subdomains, valuation, email security, and typosquatting/brand protection
 
 ## Frameworks
 
