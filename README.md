@@ -230,6 +230,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Read and search through your Obsidian vault or any directory containing Markdown notes
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Seamless document format conversion using Pandoc, supporting Markdown, HTML, PDF, DOCX, CSV and more
 - [connerlambden/bgpt-mcp](https://github.com/connerlambden/bgpt-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16"/> ☁️ - Search scientific papers with structured experimental data (methods, results, sample sizes, quality scores) extracted from full-text studies
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 ☁️ - State-of-the-art long-term memory for AI agents with built-in MCP server, supporting semantic, graph, and temporal retrieval strategies
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
