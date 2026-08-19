@@ -148,6 +148,7 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 - [modelcontextprotocol/server-prometheus](https://github.com/modelcontextprotocol/server-prometheus) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Surveillance des métriques avec Prometheus
 - [modelcontextprotocol/server-grafana](https://github.com/modelcontextprotocol/server-grafana) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Visualisation des métriques avec Grafana
 - [datadog/datadog-mcp-server](https://github.com/datadog/datadog-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Surveillance des applications avec Datadog
+- [LLM-Pulse/llmpulse-mcp](https://github.com/LLM-Pulse/llmpulse-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Analyse de visibilité dans la recherche IA via MCP pour mentions de marque, citations, sentiment, part de voix, prompts suivis, recommandations et trafic référent IA
 
 ### 🧠 <a name="connaissances-et-mémoire"></a>Connaissances et mémoire
 
