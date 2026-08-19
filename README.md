@@ -218,6 +218,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
 - [modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/server-memory) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Knowledge graph-based persistent memory system
+- [maxbaluev/accreted-intelligence](https://github.com/maxbaluev/accreted-intelligence) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="16" height="16"/> 🏠 - Local-first work memory for coding agents with scored retrieval, commitment tracking, and outcome-based credit across sessions
 - [CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Enhanced graph-based memory for AI role-play
 - [topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Memory manager with various graph and vector stores
 - [hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Documentation retrieval through vector search
