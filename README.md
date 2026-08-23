@@ -26,6 +26,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 * [Claude Desktop](https://claude.ai/desktop) - Official Claude desktop app with MCP support
 * [Cursor](https://cursor.sh/) - AI-native code editor with MCP support
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous penetration testing MCP server. Orchestrates 80+ offensive security tools through 50 specialist agents, open source (GPLv3), with proof of exploitation on every finding and a fully local mode.
 * [Cline](https://github.com/cfortuner/cline) - Terminal-based Claude client with MCP support
 * [Windsurf](https://www.windsurf.ai/) - AI-native IDE with MCP support
 * [LibreChat](https://www.librechat.ai/) - Open-source AI Web UI supporting multiple providers including MCP
