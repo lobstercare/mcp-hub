@@ -146,6 +146,8 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - MCP Server for NocoDB database
 ### 🌐 <a name="web--search"></a>Web & Search
 
+- [usenetstate/statsnet-mcp](https://github.com/usenetstate/statsnet-mcp) ☁️ - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · `io.github.usenetstate/statsnet`
+
 - [modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/server-brave-search) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Web search capabilities using Brave's Search API
 - [modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/server-fetch) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Efficient web content fetching and processing
 - [modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/server-puppeteer) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Browser automation for web scraping and interaction
