@@ -245,6 +245,8 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [r-huijts/ns-mcp-server](https://github.com/r-huijts/ns-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Access to Dutch Railways (NS) real-time travel information and disruptions via the official NS API
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Interface with the Rijksmuseum API to search artworks, retrieve details, access image tiles, and explore collections
 
+- [zornade/zornade-mcp](https://github.com/zornade/zornade-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Italian cadastral, geospatial and real-estate data: geocoding, parcel profiles, risk and solar layers, valuations.
+
 ### 🎮 <a name="gaming"></a>Gaming
 
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Godot game engine interaction
