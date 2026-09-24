@@ -127,6 +127,7 @@ Une liste sélectionnée de serveurs Model Context Protocol (MCP) exceptionnels.
 
 ### 🖥️ <a name="outils-de-développement"></a>Outils de développement
 
+- [API.market](https://api.market/api/mcp/gateway) ☁️ - Passerelle propriétaire hébergée utilisant Streamable HTTP pour découvrir et appeler des API, consulter leur utilisation et gérer les abonnements ; authentification OAuth ou clé API, avec offres gratuites et payantes selon l’API.
 - [modelcontextprotocol/server-shell](https://github.com/modelcontextprotocol/server-shell) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Exécution de commandes shell avec contrôles de sécurité
 - [modelcontextprotocol/server-vscode](https://github.com/modelcontextprotocol/server-vscode) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Intégration VS Code pour l'édition de code et l'exécution de commandes
 - [jetbrains/intellij-mcp-server](https://github.com/jetbrains/intellij-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="16" height="16"/> 🏠 - Intégration IntelliJ pour l'édition de code et l'analyse
