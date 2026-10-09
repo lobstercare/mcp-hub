@@ -270,6 +270,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 - [twzrd-sol/twzrd-agent-intel](https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Solana-native agent trust scoring via x402 micropayments — free on-chain preflight checks and paid signed trust receipts settled in under 1 second at intel.twzrd.xyz/mcp
 - [FilingFirehose](https://filingfirehose.com/mcp) ☁️ - Hosted SEC EDGAR MCP for any US ticker — 8-K body-text parsing, 10-K / 10-Q / S-3 / 13D reads, forensic risk scores (LOW/MODERATE/ELEVATED/HIGH), and cyber-incident tracking. Remote endpoint at https://filingfirehose.com/mcp
+- [Fincept-Corporation/fincept-mcp-docs](https://github.com/Fincept-Corporation/fincept-mcp-docs) ☁️ - Hosted MCP server for Fincept Terminal: quotes, candles, option chains, fundamentals, economic data, SEC filings, news, backtests, paper trading and 15 quant engines (statistics, forecasting, volatility, portfolio optimisation, derivatives pricing). OAuth sign-in. Remote endpoint at https://enterprise.fincept.in/mcp
 ### 🛠️ <a name="utilities"></a>Utilities
 
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Calculator for precise numerical calculations
