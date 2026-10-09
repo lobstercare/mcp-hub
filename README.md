@@ -190,6 +190,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ### 🖥️ <a name="developer-tools"></a>Developer Tools
 
+- [Chain-Love/chain.love-mcp](https://github.com/Chain-Love/chain.love-mcp) ☁️ - Hosted gateway for discovering and comparing Web3 infrastructure services across 50+ blockchain networks. Remote MCP endpoint at [app.chain.love/mcp](https://app.chain.love/mcp)
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Figma data access for design implementation
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Kubernetes management and operations
 - [kubestellar/console kc-agent](https://github.com/kubestellar/console) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - Multi-cluster Kubernetes dashboard MCP server bridging AI agents to kubeconfig, cluster management, policies, and 20+ CNCF project integrations
