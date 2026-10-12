@@ -217,6 +217,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 - System monitoring for CPU, memory, disk, and network
 - [automatikstudio/sitescore-mcp](https://github.com/automatikstudio/sitescore-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Website analysis and SEO scoring for performance optimization
 - [jonradoff/lastsaas](https://github.com/jonradoff/lastsaas) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> ☁️ - Read-only admin MCP server for SaaS platforms with 26 tools for dashboards, users, tenants, financials, logs, and health monitoring
+- [fclairamb/solidping](https://github.com/fclairamb/solidping) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="16" height="16"/> 🏠 ☁️ - Uptime and synthetic monitoring with a built-in MCP server to create, run and diagnose checks and read incidents
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
