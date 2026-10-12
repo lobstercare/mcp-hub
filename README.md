@@ -325,3 +325,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to add or upda
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+- [tigerops-win/scout-packs](https://github.com/tigerops-win/scout-packs) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Pay-per-call B2B data for AI agents: verified lead lookup, email deliverability, domain intel, and web recon over MCP, $0.01-$0.03 USDC on Base via x402
