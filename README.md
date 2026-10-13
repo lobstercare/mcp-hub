@@ -206,6 +206,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [Vortiago/mcp-azure-devops](https://github.com/Vortiago/mcp-azure-devops) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Bridge to Azure DevOps services
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) <img src="https://edgeone.ai/favicon.ico" width="16" height="16"/> 🏠 - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 - [operantlabs/operant-mcp](https://github.com/operantlabs/operant-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Security testing MCP server with 51 tools for penetration testing, network forensics, memory analysis, and vulnerability assessment
+- [ateymoori/oh-my-android](https://github.com/ateymoori/oh-my-android) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="16" height="16"/> 🏠 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16"/> - Native macOS app with a built-in MCP server that lets AI agents see and drive the Android Emulator and adb devices: screenshots and UI tree in dp, taps, logcat, dark mode, font scale, RTL
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
