@@ -244,6 +244,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Up-to-date information on U.S. National Parks details, alerts, visitor centers, campgrounds, hiking trails, and events
 - [r-huijts/ns-mcp-server](https://github.com/r-huijts/ns-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Access to Dutch Railways (NS) real-time travel information and disruptions via the official NS API
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Interface with the Rijksmuseum API to search artworks, retrieve details, access image tiles, and explore collections
+- [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Remote server at https://dchub.cloud/mcp (94 tools); free tier needs no key.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
