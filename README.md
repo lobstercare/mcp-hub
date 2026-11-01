@@ -206,6 +206,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [Vortiago/mcp-azure-devops](https://github.com/Vortiago/mcp-azure-devops) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Bridge to Azure DevOps services
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) <img src="https://edgeone.ai/favicon.ico" width="16" height="16"/> 🏠 - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 - [operantlabs/operant-mcp](https://github.com/operantlabs/operant-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Security testing MCP server with 51 tools for penetration testing, network forensics, memory analysis, and vulnerability assessment
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> 🏠 - Web, Android and iOS QA in natural language, with persistent memidex memory and evidence-based self-improvement. [Website](https://vostride.com) · [MCP setup](https://vostride.com/docs/agent-qa/mcp).
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
