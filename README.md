@@ -302,6 +302,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live campaign data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
 - [Humanizer PRO](https://github.com/khadinakbaronline/humanizer-pro-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> - Transforms AI-generated text into natural, human-sounding content with stealth, academic, and SEO modes. Includes AI detection scanning. [Website](https://texthumanizer.pro)
 - [estevecastells/domscan-mcp](https://github.com/estevecastells/domscan-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Domain intelligence: availability, DNS, WHOIS/RDAP, SSL, subdomains, valuation, email security, and typosquatting/brand protection
+- [tanod-labs/tanod-mcp](https://github.com/tanod-labs/tanod-mcp) ☁️ - Remote MCP server with 140+ pay-per-call tools for PDF, OCR, images, web pages and chain reads; free daily allowance, then x402 USDC. Endpoint https://tanod.dev/mcp
 
 ## Frameworks
 
