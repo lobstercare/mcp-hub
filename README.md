@@ -165,6 +165,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [mcp/aws-kb-retrieval-server](https://hub.docker.com/r/mcp/aws-kb-retrieval-server) ⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - MCP server for retrieving information from the AWS Knowledge Base using the Bedrock Agent Runtime
 - [pranciskus/newsmcp](https://github.com/pranciskus/newsmcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
 - [ZeroPointRepo/youtube-mcp](https://github.com/ZeroPointRepo/youtube-mcp) ☁️ - YouTube transcripts, video and channel search, channel browsing, within channel search, and playlist extraction for AI agents. Remote MCP server at [transcriptapi.com/mcp](https://transcriptapi.com/mcp), Bearer key or OAuth 2.1 sign in.
+- [arcmira/mcp](https://github.com/arcmira/mcp) ☁️ - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [MCP setup](https://arcmira.com/docs/mcp-server) · [API docs](https://arcmira.com/docs)
 
 ### 🔄 <a name="version-control"></a>Version Control
 
