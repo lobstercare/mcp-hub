@@ -187,6 +187,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Nostr protocol integration for posting notes
 - [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - X/Twitter data platform — MCP server, 76 REST API endpoints, 20 extraction tools
 - [Autoposting-ai/autoposting-mcp](https://github.com/Autoposting-ai/autoposting-mcp) ☁️ - Remote MCP server for Autoposting — schedule, generate and publish social posts to X, LinkedIn, Instagram, Threads and YouTube from any MCP client
+- [mailtrap/mailtrap-mcp](https://github.com/mailtrap/mailtrap-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Official Mailtrap server to send transactional and bulk email, manage templates, contacts, domains and webhooks, and read email logs and sending stats
 
 ### 🖥️ <a name="developer-tools"></a>Developer Tools
 
